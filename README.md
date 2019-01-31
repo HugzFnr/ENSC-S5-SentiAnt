@@ -7,4 +7,7 @@ Toutes les informations utiles se trouvent dans le wiki.
 
 🍪🐜  
 
-Ce projet a été conçu et developpé par Younès RABII, Guillaume CREUSOT, Louis HACHE, Célestin GRENIER, Justien DILLMAN et Hugo FOURNIER dans le cadre de notre projet TransPromotionnel 2018 à l'ENSC.
+
+
+
+This project was made by Younès RABII, Guillaume CREUSOT, Louis HACHE, Célestin GRENIER, Justien DILLMAN and Hugo FOURNIER in the context of our 2018 "TransPromotionnel" project at the ENSC, in 2 months and a half.
