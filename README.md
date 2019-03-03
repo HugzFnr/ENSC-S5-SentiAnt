@@ -12,3 +12,8 @@ The game and the functions you can use in your code are explained in details in 
 ### Context
 
 This project was made by Younès RABII, Guillaume CREUSOT, Louis HACHE, Célestin GRENIER, Justien DILLMAN and Hugo FOURNIER for our 2018 "TransPromotionnel" project at the ENSC, in 2 months and a half.
+
+### Demonstration
+
+Here is a 1 minute 30s long video demonstration of the game that I commented in french : https://youtu.be/HPNayKAvka0
+One day I shall subtitle it in english, promised.
